@@ -5,7 +5,7 @@ pipeline {
         IMAGE_NAME = 'zoople-devops-workshop-vijin:latest'
         CONTAINER_NAME = 'anjana-app'
         APP_PORT = '3000'
-        DOMAIN = 'Anjana.workshop.zoople.in'
+        DOMAIN = 'anjana.workshop.zoople.in'
         NGINX_DIR = '/home/ubuntu/nginx'
     }
 
